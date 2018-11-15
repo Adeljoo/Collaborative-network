@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p0:properties xmlns:p0="http://jadex.sourceforge.net/jadexconf" __ID="0">
+	<p0:properties __ID="1" type="awa@Amenehs-MacBook-Pro$local_a8a">
+		<p0:property __ID="2" type="fast">false</p0:property>
+		<p0:property __ID="3" type="autocreate">true</p0:property>
+		<p0:property __ID="4" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="5" type="awa@Amenehs-MacBook-Pro$local_345">
+		<p0:property __ID="6" type="fast">false</p0:property>
+		<p0:property __ID="7" type="autocreate">true</p0:property>
+		<p0:property __ID="8" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="9" type="awa@Amenehs-MacBook-Pro$local_d15">
+		<p0:property __ID="10" type="fast">false</p0:property>
+		<p0:property __ID="11" type="autocreate">true</p0:property>
+		<p0:property __ID="12" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="13" type="awa@Amenehs-MacBook-Pro$local_e99">
+		<p0:property __ID="14" type="fast">false</p0:property>
+		<p0:property __ID="15" type="autocreate">true</p0:property>
+		<p0:property __ID="16" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="17" type="awa@Amenehs-MacBook-Pro$local_3a7">
+		<p0:property __ID="18" type="fast">false</p0:property>
+		<p0:property __ID="19" type="autocreate">true</p0:property>
+		<p0:property __ID="20" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="21" type="awa@Amenehs-MacBook-Pro$local_780">
+		<p0:property __ID="22" type="fast">false</p0:property>
+		<p0:property __ID="23" type="autocreate">true</p0:property>
+		<p0:property __ID="24" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="25" type="awa@Amenehs-MacBook-Pro$local_22c">
+		<p0:property __ID="26" type="fast">false</p0:property>
+		<p0:property __ID="27" type="autocreate">true</p0:property>
+		<p0:property __ID="28" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="29" type="awa@Amenehs-MacBook-Pro$local_771">
+		<p0:property __ID="30" type="fast">false</p0:property>
+		<p0:property __ID="31" type="autocreate">true</p0:property>
+		<p0:property __ID="32" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="33" type="awa@Amenehs-MacBook-Pro$local_488">
+		<p0:property __ID="34" type="fast">false</p0:property>
+		<p0:property __ID="35" type="autocreate">true</p0:property>
+		<p0:property __ID="36" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="37" type="StarterServicePanel">
+		<p0:properties __ID="38" type="mpanel">
+			<p0:property __ID="39" type="tree"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<p0:TreeProperties xmlns:p0="typeinfo:jadex.base.gui.filetree" __ID="0">
+	<selectedNode>
+		<p0:NodePath __ID="1" entry="0">
+			<path>
+				<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="2" __len="3">
+					<entries>
+						<p1:String __ID="3">Resource</p1:String>
+						<p1:String __ID="4">bdiv3</p1:String>
+						<p1:String __ID="5">BobBDI.class</p1:String>
+					</entries>
+				</p1:String__1>
+			</path>
+		</p0:NodePath>
+	</selectedNode>
+	<expandedNodes>
+		<p0:NodePath__1 __ID="6" __len="3">
+			<entries>
+				<p0:NodePath __ID="7" entry="0">
+					<path>
+						<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="8" __len="1">
+							<entries>
+								<p1:String __ID="9">Resource</p1:String>
+							</entries>
+						</p1:String__1>
+					</path>
+				</p0:NodePath>
+				<p0:NodePath __ID="10" entry="0">
+					<path>
+						<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="11" __len="0"></p1:String__1>
+					</path>
+				</p0:NodePath>
+				<p0:NodePath __ID="12" entry="0">
+					<path>
+						<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="13" __len="2">
+							<entries>
+								<p1:String __ID="14">Resource</p1:String>
+								<p1:String __ID="15">bdiv3</p1:String>
+							</entries>
+						</p1:String__1>
+					</path>
+				</p0:NodePath>
+			</entries>
+		</p0:NodePath__1>
+	</expandedNodes>
+	<rootPathEntries>
+		<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="16" __len="1">
+			<entries>
+				<p1:String __ID="17">bin</p1:String>
+			</entries>
+		</p1:String__1>
+	</rootPathEntries>
+</p0:TreeProperties>
+]]></p0:property>
+			<p0:properties __ID="40" type="mic">
+				<p0:property __ID="41" type="Micro Agent">true</p0:property>
+				<p0:property __ID="42" type="BPMN Legacy Process">true</p0:property>
+				<p0:property __ID="43" type="BDIV3 Agent">true</p0:property>
+				<p0:property __ID="44" type="Component">true</p0:property>
+				<p0:property __ID="45" type="BPMN Process">true</p0:property>
+			</p0:properties>
+		</p0:properties>
+		<p0:properties __ID="46" type="spanel">
+			<p0:property __ID="47" type="model">bin/Resource/bdiv3/BobBDI.class</p0:property>
+			<p0:property __ID="48" type="ridurl">file:../Copy%20of%20ShareTest2/bin</p0:property>
+			<p0:property __ID="49" type="globalrid"></p0:property>
+			<p0:property __ID="50" type="startsuspended">false</p0:property>
+			<p0:property __ID="51" type="autogenerate">false</p0:property>
+			<p0:property __ID="52" type="number">1</p0:property>
+			<p0:property __ID="53" type="name">Bob</p0:property>
+		</p0:properties>
+	</p0:properties>
+	<p0:properties __ID="54" type="clockservice">
+		<p0:property __ID="55" type="type">system</p0:property>
+		<p0:property __ID="56" type="delta">100</p0:property>
+		<p0:property __ID="57" type="dilation">1.0</p0:property>
+	</p0:properties>
+	<p0:properties __ID="58" type="simulationservice">
+		<p0:property __ID="59" type="executing">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="60" type="chat">
+		<p0:property __ID="61" type="nickname">user_761</p0:property>
+	</p0:properties>
+	<p0:properties __ID="62" type="awa@Amenehs-MacBook-Pro$local_afb">
+		<p0:property __ID="63" type="fast">false</p0:property>
+		<p0:property __ID="64" type="autocreate">true</p0:property>
+		<p0:property __ID="65" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="66" type="securityservice">
+		<p0:property __ID="67" type="validityduration">327680</p0:property>
+		<p0:property __ID="68" type="usepass">true</p0:property>
+		<p0:property __ID="69" type="password">32217b0d-65f</p0:property>
+		<p0:property __ID="70" type="selected_mechanism">0</p0:property>
+		<p0:property __ID="71" type="trustedlan">false</p0:property>
+		<p0:property __ID="72" type="storepath">./keystore</p0:property>
+		<p0:property __ID="73" type="storepass">keystore</p0:property>
+		<p0:property __ID="74" type="keypass">keystore</p0:property>
+		<p0:property __ID="75" type="selmech">0</p0:property>
+		<p0:properties __ID="76" type="DecentralizedAcquisitionMechanism">
+			<p0:property __ID="77" type="responses">1</p0:property>
+		</p0:properties>
+		<p0:properties __ID="78" type="TTPAcquisitionMechanism">
+			<p0:property __ID="79" type="verify">true</p0:property>
+		</p0:properties>
+	</p0:properties>
+</p0:properties>

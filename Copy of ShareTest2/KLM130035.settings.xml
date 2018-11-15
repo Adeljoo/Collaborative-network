@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<p0:properties xmlns:p0="http://jadex.sourceforge.net/jadexconf" __ID="0">
+	<p0:properties __ID="1" type="awa@KLM130035_621">
+		<p0:property __ID="2" type="fast">false</p0:property>
+		<p0:property __ID="3" type="autocreate">true</p0:property>
+		<p0:property __ID="4" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="5" type="awa@KLM130035_a09">
+		<p0:property __ID="6" type="fast">false</p0:property>
+		<p0:property __ID="7" type="autocreate">true</p0:property>
+		<p0:property __ID="8" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="9" type="awa@KLM130035_c4f">
+		<p0:property __ID="10" type="fast">false</p0:property>
+		<p0:property __ID="11" type="autocreate">true</p0:property>
+		<p0:property __ID="12" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="13" type="awa@KLM130035_ee6">
+		<p0:property __ID="14" type="fast">false</p0:property>
+		<p0:property __ID="15" type="autocreate">true</p0:property>
+		<p0:property __ID="16" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="17" type="awa@KLM130035_ac1">
+		<p0:property __ID="18" type="fast">false</p0:property>
+		<p0:property __ID="19" type="autocreate">true</p0:property>
+		<p0:property __ID="20" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="21" type="awa@KLM130035_505">
+		<p0:property __ID="22" type="fast">false</p0:property>
+		<p0:property __ID="23" type="autocreate">true</p0:property>
+		<p0:property __ID="24" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="25" type="awa@KLM130035_7ab">
+		<p0:property __ID="26" type="fast">false</p0:property>
+		<p0:property __ID="27" type="autocreate">true</p0:property>
+		<p0:property __ID="28" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="29" type="awa@KLM130035_1b5">
+		<p0:property __ID="30" type="fast">false</p0:property>
+		<p0:property __ID="31" type="autocreate">true</p0:property>
+		<p0:property __ID="32" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="33" type="awa@KLM130035_c5b">
+		<p0:property __ID="34" type="fast">false</p0:property>
+		<p0:property __ID="35" type="autocreate">true</p0:property>
+		<p0:property __ID="36" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="37" type="awa@KLM130035_53e">
+		<p0:property __ID="38" type="fast">false</p0:property>
+		<p0:property __ID="39" type="autocreate">true</p0:property>
+		<p0:property __ID="40" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="41" type="awa@KLM130035_58c">
+		<p0:property __ID="42" type="fast">false</p0:property>
+		<p0:property __ID="43" type="autocreate">true</p0:property>
+		<p0:property __ID="44" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="45" type="awa@KLM130035_2f8">
+		<p0:property __ID="46" type="fast">false</p0:property>
+		<p0:property __ID="47" type="autocreate">true</p0:property>
+		<p0:property __ID="48" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="49" type="awa@KLM130035_fe0">
+		<p0:property __ID="50" type="fast">false</p0:property>
+		<p0:property __ID="51" type="autocreate">true</p0:property>
+		<p0:property __ID="52" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="53" type="awa@KLM130035_6ce">
+		<p0:property __ID="54" type="fast">false</p0:property>
+		<p0:property __ID="55" type="autocreate">true</p0:property>
+		<p0:property __ID="56" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="57" type="awa@KLM130035_5c8">
+		<p0:property __ID="58" type="fast">false</p0:property>
+		<p0:property __ID="59" type="autocreate">true</p0:property>
+		<p0:property __ID="60" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="61" type="awa@KLM130035_3dc">
+		<p0:property __ID="62" type="fast">false</p0:property>
+		<p0:property __ID="63" type="autocreate">true</p0:property>
+		<p0:property __ID="64" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="65" type="awa@KLM130035_890">
+		<p0:property __ID="66" type="fast">false</p0:property>
+		<p0:property __ID="67" type="autocreate">true</p0:property>
+		<p0:property __ID="68" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="69" type="awa@KLM130035_7f2">
+		<p0:property __ID="70" type="fast">false</p0:property>
+		<p0:property __ID="71" type="autocreate">true</p0:property>
+		<p0:property __ID="72" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="73" type="awa@KLM130035_28e">
+		<p0:property __ID="74" type="fast">false</p0:property>
+		<p0:property __ID="75" type="autocreate">true</p0:property>
+		<p0:property __ID="76" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="77" type="awa@KLM130035_349">
+		<p0:property __ID="78" type="fast">false</p0:property>
+		<p0:property __ID="79" type="autocreate">true</p0:property>
+		<p0:property __ID="80" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="81" type="awa@KLM130035_ad0">
+		<p0:property __ID="82" type="fast">false</p0:property>
+		<p0:property __ID="83" type="autocreate">true</p0:property>
+		<p0:property __ID="84" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="85" type="awa@KLM130035_e1b">
+		<p0:property __ID="86" type="fast">false</p0:property>
+		<p0:property __ID="87" type="autocreate">true</p0:property>
+		<p0:property __ID="88" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="89" type="awa@KLM130035_bc0">
+		<p0:property __ID="90" type="fast">false</p0:property>
+		<p0:property __ID="91" type="autocreate">true</p0:property>
+		<p0:property __ID="92" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="93" type="awa@KLM130035_f34">
+		<p0:property __ID="94" type="fast">false</p0:property>
+		<p0:property __ID="95" type="autocreate">true</p0:property>
+		<p0:property __ID="96" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="97" type="awa@KLM130035_141">
+		<p0:property __ID="98" type="fast">false</p0:property>
+		<p0:property __ID="99" type="autocreate">true</p0:property>
+		<p0:property __ID="100" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="101" type="awa@KLM130035_151">
+		<p0:property __ID="102" type="fast">false</p0:property>
+		<p0:property __ID="103" type="autocreate">true</p0:property>
+		<p0:property __ID="104" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="105" type="awa@KLM130035_1b8">
+		<p0:property __ID="106" type="fast">false</p0:property>
+		<p0:property __ID="107" type="autocreate">true</p0:property>
+		<p0:property __ID="108" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="109" type="awa@KLM130035_775">
+		<p0:property __ID="110" type="fast">false</p0:property>
+		<p0:property __ID="111" type="autocreate">true</p0:property>
+		<p0:property __ID="112" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="113" type="awa@KLM130035_7cc">
+		<p0:property __ID="114" type="fast">false</p0:property>
+		<p0:property __ID="115" type="autocreate">true</p0:property>
+		<p0:property __ID="116" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="117" type="awa@KLM130035_1cf">
+		<p0:property __ID="118" type="fast">false</p0:property>
+		<p0:property __ID="119" type="autocreate">true</p0:property>
+		<p0:property __ID="120" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="121" type="awa@KLM130035_360">
+		<p0:property __ID="122" type="fast">false</p0:property>
+		<p0:property __ID="123" type="autocreate">true</p0:property>
+		<p0:property __ID="124" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="125" type="awa@KLM130035_ca7">
+		<p0:property __ID="126" type="fast">false</p0:property>
+		<p0:property __ID="127" type="autocreate">true</p0:property>
+		<p0:property __ID="128" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="129" type="awa@KLM130035_84a">
+		<p0:property __ID="130" type="fast">false</p0:property>
+		<p0:property __ID="131" type="autocreate">true</p0:property>
+		<p0:property __ID="132" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="133" type="awa@KLM130035_159">
+		<p0:property __ID="134" type="fast">false</p0:property>
+		<p0:property __ID="135" type="autocreate">true</p0:property>
+		<p0:property __ID="136" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="137" type="awa@KLM130035_b5a">
+		<p0:property __ID="138" type="fast">false</p0:property>
+		<p0:property __ID="139" type="autocreate">true</p0:property>
+		<p0:property __ID="140" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="141" type="awa@KLM130035_b31">
+		<p0:property __ID="142" type="fast">false</p0:property>
+		<p0:property __ID="143" type="autocreate">true</p0:property>
+		<p0:property __ID="144" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="145" type="awa@KLM130035_b6f">
+		<p0:property __ID="146" type="fast">false</p0:property>
+		<p0:property __ID="147" type="autocreate">true</p0:property>
+		<p0:property __ID="148" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="149" type="awa@KLM130035_e72">
+		<p0:property __ID="150" type="fast">false</p0:property>
+		<p0:property __ID="151" type="autocreate">true</p0:property>
+		<p0:property __ID="152" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="153" type="awa@KLM130035_fb3">
+		<p0:property __ID="154" type="fast">false</p0:property>
+		<p0:property __ID="155" type="autocreate">true</p0:property>
+		<p0:property __ID="156" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="157" type="awa@KLM130035_4be">
+		<p0:property __ID="158" type="fast">false</p0:property>
+		<p0:property __ID="159" type="autocreate">true</p0:property>
+		<p0:property __ID="160" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="161" type="awa@KLM130035_60a">
+		<p0:property __ID="162" type="fast">false</p0:property>
+		<p0:property __ID="163" type="autocreate">true</p0:property>
+		<p0:property __ID="164" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="165" type="awa@KLM130035_c3e">
+		<p0:property __ID="166" type="fast">false</p0:property>
+		<p0:property __ID="167" type="autocreate">true</p0:property>
+		<p0:property __ID="168" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="169" type="awa@KLM130035_d38">
+		<p0:property __ID="170" type="fast">false</p0:property>
+		<p0:property __ID="171" type="autocreate">true</p0:property>
+		<p0:property __ID="172" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="173" type="awa@KLM130035_8a9">
+		<p0:property __ID="174" type="fast">false</p0:property>
+		<p0:property __ID="175" type="autocreate">true</p0:property>
+		<p0:property __ID="176" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="177" type="awa@KLM130035_74c">
+		<p0:property __ID="178" type="fast">false</p0:property>
+		<p0:property __ID="179" type="autocreate">true</p0:property>
+		<p0:property __ID="180" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="181" type="awa@KLM130035_51e">
+		<p0:property __ID="182" type="fast">false</p0:property>
+		<p0:property __ID="183" type="autocreate">true</p0:property>
+		<p0:property __ID="184" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="185" type="awa@KLM130035_a64">
+		<p0:property __ID="186" type="fast">false</p0:property>
+		<p0:property __ID="187" type="autocreate">true</p0:property>
+		<p0:property __ID="188" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="189" type="awa@KLM130035_483">
+		<p0:property __ID="190" type="fast">false</p0:property>
+		<p0:property __ID="191" type="autocreate">true</p0:property>
+		<p0:property __ID="192" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="193" type="awa@KLM130035_fa4">
+		<p0:property __ID="194" type="fast">false</p0:property>
+		<p0:property __ID="195" type="autocreate">true</p0:property>
+		<p0:property __ID="196" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="197" type="awa@KLM130035_e7b">
+		<p0:property __ID="198" type="fast">false</p0:property>
+		<p0:property __ID="199" type="autocreate">true</p0:property>
+		<p0:property __ID="200" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="201" type="awa@KLM130035_5b2">
+		<p0:property __ID="202" type="fast">false</p0:property>
+		<p0:property __ID="203" type="autocreate">true</p0:property>
+		<p0:property __ID="204" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="205" type="awa@KLM130035_9a5">
+		<p0:property __ID="206" type="fast">false</p0:property>
+		<p0:property __ID="207" type="autocreate">true</p0:property>
+		<p0:property __ID="208" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="209" type="awa@KLM130035_fb7">
+		<p0:property __ID="210" type="fast">false</p0:property>
+		<p0:property __ID="211" type="autocreate">true</p0:property>
+		<p0:property __ID="212" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="213" type="awa@KLM130035_3fd">
+		<p0:property __ID="214" type="fast">false</p0:property>
+		<p0:property __ID="215" type="autocreate">true</p0:property>
+		<p0:property __ID="216" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="217" type="awa@KLM130035_4fe">
+		<p0:property __ID="218" type="fast">false</p0:property>
+		<p0:property __ID="219" type="autocreate">true</p0:property>
+		<p0:property __ID="220" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="221" type="awa@KLM130035_c40">
+		<p0:property __ID="222" type="fast">false</p0:property>
+		<p0:property __ID="223" type="autocreate">true</p0:property>
+		<p0:property __ID="224" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="225" type="awa@KLM130035_786">
+		<p0:property __ID="226" type="fast">false</p0:property>
+		<p0:property __ID="227" type="autocreate">true</p0:property>
+		<p0:property __ID="228" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="229" type="awa@KLM130035_a0b">
+		<p0:property __ID="230" type="fast">false</p0:property>
+		<p0:property __ID="231" type="autocreate">true</p0:property>
+		<p0:property __ID="232" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="233" type="awa@KLM130035_771">
+		<p0:property __ID="234" type="fast">false</p0:property>
+		<p0:property __ID="235" type="autocreate">true</p0:property>
+		<p0:property __ID="236" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="237" type="awa@KLM130035_a30">
+		<p0:property __ID="238" type="fast">false</p0:property>
+		<p0:property __ID="239" type="autocreate">true</p0:property>
+		<p0:property __ID="240" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="241" type="awa@KLM130035_c0d">
+		<p0:property __ID="242" type="fast">false</p0:property>
+		<p0:property __ID="243" type="autocreate">true</p0:property>
+		<p0:property __ID="244" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="245" type="awa@KLM130035_879">
+		<p0:property __ID="246" type="fast">false</p0:property>
+		<p0:property __ID="247" type="autocreate">true</p0:property>
+		<p0:property __ID="248" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="249" type="awa@KLM130035_986">
+		<p0:property __ID="250" type="fast">false</p0:property>
+		<p0:property __ID="251" type="autocreate">true</p0:property>
+		<p0:property __ID="252" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="253" type="awa@KLM130035_c35">
+		<p0:property __ID="254" type="fast">false</p0:property>
+		<p0:property __ID="255" type="autocreate">true</p0:property>
+		<p0:property __ID="256" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="257" type="awa@KLM130035_d43">
+		<p0:property __ID="258" type="fast">false</p0:property>
+		<p0:property __ID="259" type="autocreate">true</p0:property>
+		<p0:property __ID="260" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="261" type="awa@KLM130035_688">
+		<p0:property __ID="262" type="fast">false</p0:property>
+		<p0:property __ID="263" type="autocreate">true</p0:property>
+		<p0:property __ID="264" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="265" type="awa@KLM130035_0f4">
+		<p0:property __ID="266" type="fast">false</p0:property>
+		<p0:property __ID="267" type="autocreate">true</p0:property>
+		<p0:property __ID="268" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="269" type="awa@KLM130035_a94">
+		<p0:property __ID="270" type="fast">false</p0:property>
+		<p0:property __ID="271" type="autocreate">true</p0:property>
+		<p0:property __ID="272" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="273" type="awa@KLM130035_4a4">
+		<p0:property __ID="274" type="fast">false</p0:property>
+		<p0:property __ID="275" type="autocreate">true</p0:property>
+		<p0:property __ID="276" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="277" type="awa@KLM130035_cea">
+		<p0:property __ID="278" type="fast">false</p0:property>
+		<p0:property __ID="279" type="autocreate">true</p0:property>
+		<p0:property __ID="280" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="281" type="awa@KLM130035_9b9">
+		<p0:property __ID="282" type="fast">false</p0:property>
+		<p0:property __ID="283" type="autocreate">true</p0:property>
+		<p0:property __ID="284" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="285" type="awa@KLM130035_e2f">
+		<p0:property __ID="286" type="fast">false</p0:property>
+		<p0:property __ID="287" type="autocreate">true</p0:property>
+		<p0:property __ID="288" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="289" type="awa@KLM130035_a14">
+		<p0:property __ID="290" type="fast">false</p0:property>
+		<p0:property __ID="291" type="autocreate">true</p0:property>
+		<p0:property __ID="292" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="293" type="awa@KLM130035_40a">
+		<p0:property __ID="294" type="fast">false</p0:property>
+		<p0:property __ID="295" type="autocreate">true</p0:property>
+		<p0:property __ID="296" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="297" type="awa@KLM130035_69b">
+		<p0:property __ID="298" type="fast">false</p0:property>
+		<p0:property __ID="299" type="autocreate">true</p0:property>
+		<p0:property __ID="300" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="301" type="awa@KLM130035_7d5">
+		<p0:property __ID="302" type="fast">false</p0:property>
+		<p0:property __ID="303" type="autocreate">true</p0:property>
+		<p0:property __ID="304" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="305" type="awa@KLM130035_f73">
+		<p0:property __ID="306" type="fast">false</p0:property>
+		<p0:property __ID="307" type="autocreate">true</p0:property>
+		<p0:property __ID="308" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="309" type="awa@KLM130035_371">
+		<p0:property __ID="310" type="fast">false</p0:property>
+		<p0:property __ID="311" type="autocreate">true</p0:property>
+		<p0:property __ID="312" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="313" type="awa@KLM130035_ab3">
+		<p0:property __ID="314" type="fast">false</p0:property>
+		<p0:property __ID="315" type="autocreate">true</p0:property>
+		<p0:property __ID="316" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="317" type="awa@KLM130035_217">
+		<p0:property __ID="318" type="fast">false</p0:property>
+		<p0:property __ID="319" type="autocreate">true</p0:property>
+		<p0:property __ID="320" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="321" type="awa@KLM130035_fbe">
+		<p0:property __ID="322" type="fast">false</p0:property>
+		<p0:property __ID="323" type="autocreate">true</p0:property>
+		<p0:property __ID="324" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="325" type="awa@KLM130035_2e6">
+		<p0:property __ID="326" type="fast">false</p0:property>
+		<p0:property __ID="327" type="autocreate">true</p0:property>
+		<p0:property __ID="328" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="329" type="awa@KLM130035_7ae">
+		<p0:property __ID="330" type="fast">false</p0:property>
+		<p0:property __ID="331" type="autocreate">true</p0:property>
+		<p0:property __ID="332" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="333" type="awa@KLM130035_13e">
+		<p0:property __ID="334" type="fast">false</p0:property>
+		<p0:property __ID="335" type="autocreate">true</p0:property>
+		<p0:property __ID="336" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="337" type="awa@KLM130035_607">
+		<p0:property __ID="338" type="fast">false</p0:property>
+		<p0:property __ID="339" type="autocreate">true</p0:property>
+		<p0:property __ID="340" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="341" type="awa@KLM130035_8fb">
+		<p0:property __ID="342" type="fast">false</p0:property>
+		<p0:property __ID="343" type="autocreate">true</p0:property>
+		<p0:property __ID="344" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="345" type="awa@KLM130035_f29">
+		<p0:property __ID="346" type="fast">false</p0:property>
+		<p0:property __ID="347" type="autocreate">true</p0:property>
+		<p0:property __ID="348" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="349" type="awa@KLM130035_053">
+		<p0:property __ID="350" type="fast">false</p0:property>
+		<p0:property __ID="351" type="autocreate">true</p0:property>
+		<p0:property __ID="352" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="353" type="awa@KLM130035_f6d">
+		<p0:property __ID="354" type="fast">false</p0:property>
+		<p0:property __ID="355" type="autocreate">true</p0:property>
+		<p0:property __ID="356" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="357" type="awa@KLM130035_376">
+		<p0:property __ID="358" type="fast">false</p0:property>
+		<p0:property __ID="359" type="autocreate">true</p0:property>
+		<p0:property __ID="360" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="361" type="awa@KLM130035_9ba">
+		<p0:property __ID="362" type="fast">false</p0:property>
+		<p0:property __ID="363" type="autocreate">true</p0:property>
+		<p0:property __ID="364" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="365" type="awa@KLM130035_741">
+		<p0:property __ID="366" type="fast">false</p0:property>
+		<p0:property __ID="367" type="autocreate">true</p0:property>
+		<p0:property __ID="368" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="369" type="awa@KLM130035_b13">
+		<p0:property __ID="370" type="fast">false</p0:property>
+		<p0:property __ID="371" type="autocreate">true</p0:property>
+		<p0:property __ID="372" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="373" type="awa@KLM130035_b66">
+		<p0:property __ID="374" type="fast">false</p0:property>
+		<p0:property __ID="375" type="autocreate">true</p0:property>
+		<p0:property __ID="376" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="377" type="awa@KLM130035_690">
+		<p0:property __ID="378" type="fast">false</p0:property>
+		<p0:property __ID="379" type="autocreate">true</p0:property>
+		<p0:property __ID="380" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="381" type="awa@KLM130035_5b3">
+		<p0:property __ID="382" type="fast">false</p0:property>
+		<p0:property __ID="383" type="autocreate">true</p0:property>
+		<p0:property __ID="384" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="385" type="awa@KLM130035_fc6">
+		<p0:property __ID="386" type="fast">false</p0:property>
+		<p0:property __ID="387" type="autocreate">true</p0:property>
+		<p0:property __ID="388" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="389" type="awa@KLM130035_335">
+		<p0:property __ID="390" type="fast">false</p0:property>
+		<p0:property __ID="391" type="autocreate">true</p0:property>
+		<p0:property __ID="392" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="393" type="awa@KLM130035_a79">
+		<p0:property __ID="394" type="fast">false</p0:property>
+		<p0:property __ID="395" type="autocreate">true</p0:property>
+		<p0:property __ID="396" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="397" type="awa@KLM130035_a1f">
+		<p0:property __ID="398" type="fast">false</p0:property>
+		<p0:property __ID="399" type="autocreate">true</p0:property>
+		<p0:property __ID="400" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="401" type="awa@KLM130035_f09">
+		<p0:property __ID="402" type="fast">false</p0:property>
+		<p0:property __ID="403" type="autocreate">true</p0:property>
+		<p0:property __ID="404" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="405" type="awa@KLM130035_f61">
+		<p0:property __ID="406" type="fast">false</p0:property>
+		<p0:property __ID="407" type="autocreate">true</p0:property>
+		<p0:property __ID="408" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="409" type="awa@KLM130035_69e">
+		<p0:property __ID="410" type="fast">false</p0:property>
+		<p0:property __ID="411" type="autocreate">true</p0:property>
+		<p0:property __ID="412" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="413" type="awa@KLM130035_fce">
+		<p0:property __ID="414" type="fast">false</p0:property>
+		<p0:property __ID="415" type="autocreate">true</p0:property>
+		<p0:property __ID="416" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="417" type="awa@KLM130035_655">
+		<p0:property __ID="418" type="fast">false</p0:property>
+		<p0:property __ID="419" type="autocreate">true</p0:property>
+		<p0:property __ID="420" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="421" type="awa@KLM130035_0c4">
+		<p0:property __ID="422" type="fast">false</p0:property>
+		<p0:property __ID="423" type="autocreate">true</p0:property>
+		<p0:property __ID="424" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="425" type="awa@KLM130035_3b4">
+		<p0:property __ID="426" type="fast">false</p0:property>
+		<p0:property __ID="427" type="autocreate">true</p0:property>
+		<p0:property __ID="428" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="429" type="awa@KLM130035_8e8">
+		<p0:property __ID="430" type="fast">false</p0:property>
+		<p0:property __ID="431" type="autocreate">true</p0:property>
+		<p0:property __ID="432" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="433" type="awa@KLM130035_099">
+		<p0:property __ID="434" type="fast">false</p0:property>
+		<p0:property __ID="435" type="autocreate">true</p0:property>
+		<p0:property __ID="436" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="437" type="awa@KLM130035_bd1">
+		<p0:property __ID="438" type="fast">false</p0:property>
+		<p0:property __ID="439" type="autocreate">true</p0:property>
+		<p0:property __ID="440" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="441" type="awa@KLM130035_223">
+		<p0:property __ID="442" type="fast">false</p0:property>
+		<p0:property __ID="443" type="autocreate">true</p0:property>
+		<p0:property __ID="444" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="445" type="awa@KLM130035_2ea">
+		<p0:property __ID="446" type="fast">false</p0:property>
+		<p0:property __ID="447" type="autocreate">true</p0:property>
+		<p0:property __ID="448" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="449" type="awa@KLM130035_9ac">
+		<p0:property __ID="450" type="fast">false</p0:property>
+		<p0:property __ID="451" type="autocreate">true</p0:property>
+		<p0:property __ID="452" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="453" type="awa@KLM130035_1ed">
+		<p0:property __ID="454" type="fast">false</p0:property>
+		<p0:property __ID="455" type="autocreate">true</p0:property>
+		<p0:property __ID="456" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="457" type="awa@KLM130035_9d5">
+		<p0:property __ID="458" type="fast">false</p0:property>
+		<p0:property __ID="459" type="autocreate">true</p0:property>
+		<p0:property __ID="460" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="461" type="awa@KLM130035_185">
+		<p0:property __ID="462" type="fast">false</p0:property>
+		<p0:property __ID="463" type="autocreate">true</p0:property>
+		<p0:property __ID="464" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="465" type="awa@KLM130035_a70">
+		<p0:property __ID="466" type="fast">false</p0:property>
+		<p0:property __ID="467" type="autocreate">true</p0:property>
+		<p0:property __ID="468" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="469" type="awa@KLM130035_1f8">
+		<p0:property __ID="470" type="fast">false</p0:property>
+		<p0:property __ID="471" type="autocreate">true</p0:property>
+		<p0:property __ID="472" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="473" type="awa@KLM130035_510">
+		<p0:property __ID="474" type="fast">false</p0:property>
+		<p0:property __ID="475" type="autocreate">true</p0:property>
+		<p0:property __ID="476" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="477" type="awa@KLM130035_669">
+		<p0:property __ID="478" type="fast">false</p0:property>
+		<p0:property __ID="479" type="autocreate">true</p0:property>
+		<p0:property __ID="480" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="481" type="awa@KLM130035_2bb">
+		<p0:property __ID="482" type="fast">false</p0:property>
+		<p0:property __ID="483" type="autocreate">true</p0:property>
+		<p0:property __ID="484" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="485" type="awa@KLM130035_82b">
+		<p0:property __ID="486" type="fast">false</p0:property>
+		<p0:property __ID="487" type="autocreate">true</p0:property>
+		<p0:property __ID="488" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="489" type="awa@KLM130035_efb">
+		<p0:property __ID="490" type="fast">false</p0:property>
+		<p0:property __ID="491" type="autocreate">true</p0:property>
+		<p0:property __ID="492" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="493" type="awa@KLM130035_476">
+		<p0:property __ID="494" type="fast">false</p0:property>
+		<p0:property __ID="495" type="autocreate">true</p0:property>
+		<p0:property __ID="496" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="497" type="awa@KLM130035_09b">
+		<p0:property __ID="498" type="fast">false</p0:property>
+		<p0:property __ID="499" type="autocreate">true</p0:property>
+		<p0:property __ID="500" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="501" type="awa@KLM130035_502">
+		<p0:property __ID="502" type="fast">false</p0:property>
+		<p0:property __ID="503" type="autocreate">true</p0:property>
+		<p0:property __ID="504" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="505" type="awa@KLM130035_3f8">
+		<p0:property __ID="506" type="fast">false</p0:property>
+		<p0:property __ID="507" type="autocreate">true</p0:property>
+		<p0:property __ID="508" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="509" type="awa@KLM130035_182">
+		<p0:property __ID="510" type="fast">false</p0:property>
+		<p0:property __ID="511" type="autocreate">true</p0:property>
+		<p0:property __ID="512" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="513" type="awa@KLM130035_67b">
+		<p0:property __ID="514" type="fast">false</p0:property>
+		<p0:property __ID="515" type="autocreate">true</p0:property>
+		<p0:property __ID="516" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="517" type="awa@KLM130035_df5">
+		<p0:property __ID="518" type="fast">false</p0:property>
+		<p0:property __ID="519" type="autocreate">true</p0:property>
+		<p0:property __ID="520" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="521" type="awa@KLM130035_d88">
+		<p0:property __ID="522" type="fast">false</p0:property>
+		<p0:property __ID="523" type="autocreate">true</p0:property>
+		<p0:property __ID="524" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="525" type="awa@KLM130035_7c1">
+		<p0:property __ID="526" type="fast">false</p0:property>
+		<p0:property __ID="527" type="autocreate">true</p0:property>
+		<p0:property __ID="528" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="529" type="awa@KLM130035_34d">
+		<p0:property __ID="530" type="fast">false</p0:property>
+		<p0:property __ID="531" type="autocreate">true</p0:property>
+		<p0:property __ID="532" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="533" type="awa@KLM130035_5d6">
+		<p0:property __ID="534" type="fast">false</p0:property>
+		<p0:property __ID="535" type="autocreate">true</p0:property>
+		<p0:property __ID="536" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="537" type="awa@KLM130035_2c4">
+		<p0:property __ID="538" type="fast">false</p0:property>
+		<p0:property __ID="539" type="autocreate">true</p0:property>
+		<p0:property __ID="540" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="541" type="awa@KLM130035_ace">
+		<p0:property __ID="542" type="fast">false</p0:property>
+		<p0:property __ID="543" type="autocreate">true</p0:property>
+		<p0:property __ID="544" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="545" type="awa@KLM130035_494">
+		<p0:property __ID="546" type="fast">false</p0:property>
+		<p0:property __ID="547" type="autocreate">true</p0:property>
+		<p0:property __ID="548" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="549" type="awa@KLM130035_b01">
+		<p0:property __ID="550" type="fast">false</p0:property>
+		<p0:property __ID="551" type="autocreate">true</p0:property>
+		<p0:property __ID="552" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="553" type="awa@KLM130035_be9">
+		<p0:property __ID="554" type="fast">false</p0:property>
+		<p0:property __ID="555" type="autocreate">true</p0:property>
+		<p0:property __ID="556" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="557" type="awa@KLM130035_0c3">
+		<p0:property __ID="558" type="fast">false</p0:property>
+		<p0:property __ID="559" type="autocreate">true</p0:property>
+		<p0:property __ID="560" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="561" type="awa@KLM130035_ae3">
+		<p0:property __ID="562" type="fast">false</p0:property>
+		<p0:property __ID="563" type="autocreate">true</p0:property>
+		<p0:property __ID="564" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="565" type="awa@KLM130035_574">
+		<p0:property __ID="566" type="fast">false</p0:property>
+		<p0:property __ID="567" type="autocreate">true</p0:property>
+		<p0:property __ID="568" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="569" type="awa@KLM130035_ad4">
+		<p0:property __ID="570" type="fast">false</p0:property>
+		<p0:property __ID="571" type="autocreate">true</p0:property>
+		<p0:property __ID="572" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="573" type="awa@KLM130035_799">
+		<p0:property __ID="574" type="fast">false</p0:property>
+		<p0:property __ID="575" type="autocreate">true</p0:property>
+		<p0:property __ID="576" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="577" type="awa@KLM130035_1bf">
+		<p0:property __ID="578" type="fast">false</p0:property>
+		<p0:property __ID="579" type="autocreate">true</p0:property>
+		<p0:property __ID="580" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="581" type="awa@KLM130035_111">
+		<p0:property __ID="582" type="fast">false</p0:property>
+		<p0:property __ID="583" type="autocreate">true</p0:property>
+		<p0:property __ID="584" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="585" type="awa@KLM130035_f72">
+		<p0:property __ID="586" type="fast">false</p0:property>
+		<p0:property __ID="587" type="autocreate">true</p0:property>
+		<p0:property __ID="588" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="589" type="awa@KLM130035_f6f">
+		<p0:property __ID="590" type="fast">false</p0:property>
+		<p0:property __ID="591" type="autocreate">true</p0:property>
+		<p0:property __ID="592" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="593" type="awa@KLM130035_e8b">
+		<p0:property __ID="594" type="fast">false</p0:property>
+		<p0:property __ID="595" type="autocreate">true</p0:property>
+		<p0:property __ID="596" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="597" type="awa@KLM130035_4ac">
+		<p0:property __ID="598" type="fast">false</p0:property>
+		<p0:property __ID="599" type="autocreate">true</p0:property>
+		<p0:property __ID="600" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="601" type="awa@KLM130035_894">
+		<p0:property __ID="602" type="fast">false</p0:property>
+		<p0:property __ID="603" type="autocreate">true</p0:property>
+		<p0:property __ID="604" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="605" type="awa@KLM130035_280">
+		<p0:property __ID="606" type="fast">false</p0:property>
+		<p0:property __ID="607" type="autocreate">true</p0:property>
+		<p0:property __ID="608" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="609" type="awa@KLM130035_6d6">
+		<p0:property __ID="610" type="fast">false</p0:property>
+		<p0:property __ID="611" type="autocreate">true</p0:property>
+		<p0:property __ID="612" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="613" type="awa@KLM130035_b80">
+		<p0:property __ID="614" type="fast">false</p0:property>
+		<p0:property __ID="615" type="autocreate">true</p0:property>
+		<p0:property __ID="616" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="617" type="awa@KLM130035_fa6">
+		<p0:property __ID="618" type="fast">false</p0:property>
+		<p0:property __ID="619" type="autocreate">true</p0:property>
+		<p0:property __ID="620" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="621" type="awa@KLM130035_a1a">
+		<p0:property __ID="622" type="fast">false</p0:property>
+		<p0:property __ID="623" type="autocreate">true</p0:property>
+		<p0:property __ID="624" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="625" type="awa@KLM130035_85a">
+		<p0:property __ID="626" type="fast">false</p0:property>
+		<p0:property __ID="627" type="autocreate">true</p0:property>
+		<p0:property __ID="628" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="629" type="awa@KLM130035_ca5">
+		<p0:property __ID="630" type="fast">false</p0:property>
+		<p0:property __ID="631" type="autocreate">true</p0:property>
+		<p0:property __ID="632" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="633" type="awa@KLM130035_12e">
+		<p0:property __ID="634" type="fast">false</p0:property>
+		<p0:property __ID="635" type="autocreate">true</p0:property>
+		<p0:property __ID="636" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="637" type="awa@KLM130035_af9">
+		<p0:property __ID="638" type="fast">false</p0:property>
+		<p0:property __ID="639" type="autocreate">true</p0:property>
+		<p0:property __ID="640" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="641" type="awa@KLM130035_033">
+		<p0:property __ID="642" type="fast">false</p0:property>
+		<p0:property __ID="643" type="autocreate">true</p0:property>
+		<p0:property __ID="644" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="645" type="awa@KLM130035_601">
+		<p0:property __ID="646" type="fast">false</p0:property>
+		<p0:property __ID="647" type="autocreate">true</p0:property>
+		<p0:property __ID="648" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="649" type="awa@KLM130035_696">
+		<p0:property __ID="650" type="fast">false</p0:property>
+		<p0:property __ID="651" type="autocreate">true</p0:property>
+		<p0:property __ID="652" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="653" type="awa@KLM130035_e45">
+		<p0:property __ID="654" type="fast">false</p0:property>
+		<p0:property __ID="655" type="autocreate">true</p0:property>
+		<p0:property __ID="656" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="657" type="awa@KLM130035_91f">
+		<p0:property __ID="658" type="fast">false</p0:property>
+		<p0:property __ID="659" type="autocreate">true</p0:property>
+		<p0:property __ID="660" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="661" type="awa@KLM130035_eda">
+		<p0:property __ID="662" type="fast">false</p0:property>
+		<p0:property __ID="663" type="autocreate">true</p0:property>
+		<p0:property __ID="664" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="665" type="awa@KLM130035_6cc">
+		<p0:property __ID="666" type="fast">false</p0:property>
+		<p0:property __ID="667" type="autocreate">true</p0:property>
+		<p0:property __ID="668" type="autodelete">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="669" type="StarterServicePanel">
+		<p0:properties __ID="670" type="mpanel">
+			<p0:property __ID="671" type="tree"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<p0:TreeProperties xmlns:p0="typeinfo:jadex.base.gui.filetree" __ID="0">
+	<selectedNode>
+		<p0:NodePath __ID="1" entry="0">
+			<path>
+				<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="2" __len="3">
+					<entries>
+						<p1:String __ID="3">Resource</p1:String>
+						<p1:String __ID="4">bdiv3</p1:String>
+						<p1:String __ID="5">TranslationBDI.class</p1:String>
+					</entries>
+				</p1:String__1>
+			</path>
+		</p0:NodePath>
+	</selectedNode>
+	<expandedNodes>
+		<p0:NodePath__1 __ID="6" __len="3">
+			<entries>
+				<p0:NodePath __ID="7" entry="0">
+					<path>
+						<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="8" __len="0"></p1:String__1>
+					</path>
+				</p0:NodePath>
+				<p0:NodePath __ID="9" entry="0">
+					<path>
+						<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="10" __len="1">
+							<entries>
+								<p1:String __ID="11">Resource</p1:String>
+							</entries>
+						</p1:String__1>
+					</path>
+				</p0:NodePath>
+				<p0:NodePath __ID="12" entry="0">
+					<path>
+						<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="13" __len="2">
+							<entries>
+								<p1:String __ID="14">Resource</p1:String>
+								<p1:String __ID="15">bdiv3</p1:String>
+							</entries>
+						</p1:String__1>
+					</path>
+				</p0:NodePath>
+			</entries>
+		</p0:NodePath__1>
+	</expandedNodes>
+	<rootPathEntries>
+		<p1:String__1 xmlns:p1="typeinfo:java.lang" __ID="16" __len="1">
+			<entries>
+				<p1:String __ID="17">bin</p1:String>
+			</entries>
+		</p1:String__1>
+	</rootPathEntries>
+</p0:TreeProperties>
+]]></p0:property>
+			<p0:properties __ID="672" type="mic">
+				<p0:property __ID="673" type="Micro Agent">true</p0:property>
+				<p0:property __ID="674" type="BPMN Legacy Process">true</p0:property>
+				<p0:property __ID="675" type="BDIV3 Agent">true</p0:property>
+				<p0:property __ID="676" type="Component">true</p0:property>
+				<p0:property __ID="677" type="BPMN Process">true</p0:property>
+			</p0:properties>
+		</p0:properties>
+		<p0:properties __ID="678" type="spanel">
+			<p0:property __ID="679" type="model">bin\Resource\bdiv3\TranslationBDI.class</p0:property>
+			<p0:property __ID="680" type="ridurl">file:../Copy%20of%20ShareTest2/bin</p0:property>
+			<p0:property __ID="681" type="globalrid"></p0:property>
+			<p0:property __ID="682" type="startsuspended">false</p0:property>
+			<p0:property __ID="683" type="autogenerate">false</p0:property>
+			<p0:property __ID="684" type="number">1</p0:property>
+			<p0:property __ID="685" type="name">Translation</p0:property>
+		</p0:properties>
+	</p0:properties>
+	<p0:properties __ID="686" type="clockservice">
+		<p0:property __ID="687" type="type">system</p0:property>
+		<p0:property __ID="688" type="delta">100</p0:property>
+		<p0:property __ID="689" type="dilation">1.0</p0:property>
+	</p0:properties>
+	<p0:properties __ID="690" type="simulationservice">
+		<p0:property __ID="691" type="executing">true</p0:property>
+	</p0:properties>
+	<p0:properties __ID="692" type="chat">
+		<p0:property __ID="693" type="nickname">user_b40</p0:property>
+	</p0:properties>
+	<p0:properties __ID="694" type="securityservice">
+		<p0:property __ID="695" type="validityduration">327680</p0:property>
+		<p0:property __ID="696" type="usepass">true</p0:property>
+		<p0:property __ID="697" type="password">38b01c93-ff1</p0:property>
+		<p0:property __ID="698" type="selected_mechanism">0</p0:property>
+		<p0:property __ID="699" type="trustedlan">false</p0:property>
+		<p0:property __ID="700" type="storepath">./keystore</p0:property>
+		<p0:property __ID="701" type="storepass">keystore</p0:property>
+		<p0:property __ID="702" type="keypass">keystore</p0:property>
+		<p0:property __ID="703" type="selmech">0</p0:property>
+		<p0:properties __ID="704" type="DecentralizedAcquisitionMechanism">
+			<p0:property __ID="705" type="responses">1</p0:property>
+		</p0:properties>
+		<p0:properties __ID="706" type="TTPAcquisitionMechanism">
+			<p0:property __ID="707" type="verify">true</p0:property>
+		</p0:properties>
+	</p0:properties>
+	<p0:properties __ID="708" type="awa@KLM130035_ee9">
+		<p0:property __ID="709" type="fast">false</p0:property>
+		<p0:property __ID="710" type="autocreate">true</p0:property>
+		<p0:property __ID="711" type="autodelete">true</p0:property>
+	</p0:properties>
+</p0:properties>
