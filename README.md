@@ -1,4 +1,4 @@
-# Collaborative_network
+# Collaborative-network
 A collaborative network of Agents to perform certain tasks and based on the outcome of task we evalute trust.
 
 We want to check:
